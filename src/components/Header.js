@@ -7,7 +7,7 @@ export default function Header() {
             <span className='logo'>Cinema Film</span>
             <ul className='nav'>
                 <li>Пожелания</li>
-                <li>Пожертвовать</li>
+                <li><a className='link' href='https://www.donationalerts.com/r/falafel_the_one'>Пожертвовать</a></li>
             </ul>
         </div>
     </header>
